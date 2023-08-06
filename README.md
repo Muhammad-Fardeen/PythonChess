@@ -15,7 +15,7 @@ To run the game, you'll need the following:
   3. Place the stockfish executable in the same directory as the Python script.
   4. Open the Command Prompt (Windows) or Terminal (macOS/Linux) and navigate to the directory where the Python script is located.
   5. Run the game by executing the following command: python PythonChess.py
-  6. Choose the AI difficulty level when prompted (easy, medium, hard, very hard, expert). Input anything raandom to select the deafault difficulty level (medium)
+  6. Choose the AI difficulty level when prompted (easy, medium, hard, very hard, expert). Input anything random to select the default difficulty level (medium)
   7. Play the game! Enter your moves in the format "from_square" + "to_square" (e.g., e2e4).
 
 ## Rules of the Game
